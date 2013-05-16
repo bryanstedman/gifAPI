@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "computer-rockout.gif",
+    "url": "http://gifapi.co/computer-rockout.gif",
+    "short_url": "",
+    "static": false,
+    "width": "320",
+    "height": "240",
+    "size": "1500",
+    "tags": [
+      "computer",
+      "music",
+      "dancing"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "magic.gif",
+    "url": "http://gifapi.co/magic.gif",
+    "short_url": "",
+    "static": false,
+    "width": "350",
+    "height": "196",
+    "size": "502",
+    "tags": [
+      "magic",
+      "unicorn"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "radioactiveman-goggles.gif",
+    "url": "http://gifapi.co/radioactiveman-goggles.gif",
+    "short_url": "",
+    "static": false,
+    "width": "245",
+    "height": "184",
+    "size": "463",
+    "tags": [
+      "radioactive",
+      "simpsons",
+      "goggles"
+    ]
+  }
+]
