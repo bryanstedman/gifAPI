@@ -1,10 +1,9 @@
 [
   {
-    "id": "1",
-    "name": "computer-rockout.gif",
+    "name": "computer-rockout",
     "url": "http://gifapi.co/computer-rockout.gif",
-    "short_url": "",
-    "static": false,
+    "source": "gifapi.co",
+    "static": null,
     "width": "320",
     "height": "240",
     "size": "1500",
@@ -15,11 +14,10 @@
     ]
   },
   {
-    "id": "2",
-    "name": "magic.gif",
+    "name": "magic",
     "url": "http://gifapi.co/magic.gif",
-    "short_url": "",
-    "static": false,
+    "source": "gifapi.co",
+    "static": null,
     "width": "350",
     "height": "196",
     "size": "502",
@@ -29,11 +27,10 @@
     ]
   },
   {
-    "id": "3",
-    "name": "radioactiveman-goggles.gif",
+    "name": "radioactiveman-goggles",
     "url": "http://gifapi.co/radioactiveman-goggles.gif",
-    "short_url": "",
-    "static": false,
+    "source": "gifapi.co",
+    "static": null,
     "width": "245",
     "height": "184",
     "size": "463",
@@ -41,6 +38,39 @@
       "radioactive",
       "simpsons",
       "goggles"
+    ]
+  },
+  {
+    "name": "9000",
+    "url": "http://bukk.it/9000.gif",
+    "source": "bukk.it",
+    "static": null,
+    "width": "320",
+    "height": "240",
+    "size": "1400",
+    "tags": [
+    ]
+  },
+  {
+    "name": "BEARPOCALYPSE",
+    "url": "http://bukk.it/BEARPOCALYPSE.gif",
+    "source": "bukk.it",
+    "static": null,
+    "width": "250",
+    "height": "189",
+    "size": "2900",
+    "tags": [
+    ]
+  },
+  {
+    "name": "FFFFUUUU9000",
+    "url": "http://bukk.it/FFFFUUUU9000.gif",
+    "source": "bukk.it",
+    "static": null,
+    "width": "200",
+    "height": "160",
+    "size": "108",
+    "tags": [
     ]
   }
 ]
