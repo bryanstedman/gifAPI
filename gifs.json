@@ -2,7 +2,6 @@
   {
     "name": "computer-rockout",
     "url": "http://gifapi.co/computer-rockout.gif",
-    "source": "gifapi.co",
     "static": null,
     "width": "320",
     "height": "240",
@@ -16,7 +15,6 @@
   {
     "name": "magic",
     "url": "http://gifapi.co/magic.gif",
-    "source": "gifapi.co",
     "static": null,
     "width": "350",
     "height": "196",
@@ -29,7 +27,6 @@
   {
     "name": "radioactiveman-goggles",
     "url": "http://gifapi.co/radioactiveman-goggles.gif",
-    "source": "gifapi.co",
     "static": null,
     "width": "245",
     "height": "184",
@@ -37,40 +34,37 @@
     "tags": [
       "radioactive",
       "simpsons",
-      "goggles"
+      "goggles",
+      "radioactiveman"
     ]
   },
   {
-    "name": "9000",
-    "url": "http://bukk.it/9000.gif",
-    "source": "bukk.it",
+    "name": "busy",
+    "url": "http://gifapi.co/busy.gif",
     "static": null,
-    "width": "320",
-    "height": "240",
-    "size": "1400",
+    "width": "500",
+    "height": "274",
+    "size": "494",
     "tags": [
+      "dog",
+      "computer",
+      "apple",
+      "busy",
+      "mac"
     ]
   },
   {
-    "name": "BEARPOCALYPSE",
-    "url": "http://bukk.it/BEARPOCALYPSE.gif",
-    "source": "bukk.it",
+    "name": "chuck-norris-approves",
+    "url": "http://gifapi.co/chuck-norris-approves.gif",
     "static": null,
-    "width": "250",
-    "height": "189",
-    "size": "2900",
+    "width": "387",
+    "height": "251",
+    "size": "2300",
     "tags": [
-    ]
-  },
-  {
-    "name": "FFFFUUUU9000",
-    "url": "http://bukk.it/FFFFUUUU9000.gif",
-    "source": "bukk.it",
-    "static": null,
-    "width": "200",
-    "height": "160",
-    "size": "108",
-    "tags": [
+      "chuck norris",
+      "thumbs up",
+      "yes",
+      "good"
     ]
   }
 ]
