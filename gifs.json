@@ -5,7 +5,7 @@
     "static": null,
     "width": "320",
     "height": "240",
-    "size": "1500",
+    "weight": "1500",
     "tags": [
       "computer",
       "music",
@@ -18,7 +18,7 @@
     "static": null,
     "width": "350",
     "height": "196",
-    "size": "502",
+    "weight": "502",
     "tags": [
       "magic",
       "unicorn"
@@ -30,7 +30,7 @@
     "static": null,
     "width": "245",
     "height": "184",
-    "size": "463",
+    "weight": "463",
     "tags": [
       "radioactive",
       "simpsons",
@@ -44,7 +44,7 @@
     "static": null,
     "width": "500",
     "height": "274",
-    "size": "494",
+    "weight": "494",
     "tags": [
       "dog",
       "computer",
@@ -59,12 +59,25 @@
     "static": null,
     "width": "387",
     "height": "251",
-    "size": "2300",
+    "weight": "2300",
     "tags": [
       "chuck norris",
       "thumbs up",
       "yes",
       "good"
+    ]
+  },
+  {
+    "name": "facepalm",
+    "url": "http://gifapi.co/facepalm.gif",
+    "static": null,
+    "width": "300",
+    "height": "300",
+    "weight": "1000",
+    "tags": [
+      "facepalm",
+      "no",
+      "star trek"
     ]
   }
 ]
