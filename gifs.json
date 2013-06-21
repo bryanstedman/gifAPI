@@ -108,15 +108,17 @@
     ]
   },
   {
-    "name": "no",
-    "url": "http://gifapi.co/no.gif",
+    "name": "pretend-to-work",
+    "url": "http://gifapi.co/pretend-to-work.gif",
     "static": null,
     "width": "500",
-    "height": "309",
-    "weight": "147",
+    "height": "282",
+    "weight": "586",
     "tags": [
-      "no",
-      "shotgun"
+      "computer",
+      "work",
+      "house",
+      "sarcasm"
     ]
   }
 ]
