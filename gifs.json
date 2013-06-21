@@ -192,5 +192,21 @@
       "angry",
       "hat"
     ]
+  },
+  {
+    "name": "yeahsure",
+    "url": "http://gifapi.co/yeahsure.gif",
+    "static": null,
+    "width": "500",
+    "height": "221",
+    "weight": "494",
+    "tags": [
+      "sure",
+      "ok",
+      "sarcasm",
+      "tv",
+      "madmen",
+      "johnhamm"
+    ]
   }
 ]
