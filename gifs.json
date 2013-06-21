@@ -178,5 +178,19 @@
       "wide",
       "coffee"
     ]
+  },
+  {
+    "name": "punch",
+    "url": "http://gifapi.co/punch.gif",
+    "static": null,
+    "width": "500",
+    "height": "247",
+    "weight": "1000",
+    "tags": [
+      "twins",
+      "punch",
+      "angry",
+      "hat"
+    ]
   }
 ]
