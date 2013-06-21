@@ -79,5 +79,19 @@
       "no",
       "star trek"
     ]
+  },
+  {
+    "name": "ok",
+    "url": "http://gifapi.co/ok.gif",
+    "static": null,
+    "width": "245",
+    "height": "285",
+    "weight": "938",
+    "tags": [
+      "ok",
+      "thumbs up",
+      "sarcasm",
+      "patronizing"
+    ]
   }
 ]
