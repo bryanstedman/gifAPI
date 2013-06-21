@@ -208,5 +208,16 @@
       "madmen",
       "johnhamm"
     ]
+  },
+  {
+    "name": "thumbsup",
+    "url": "http://gifapi.co/thumbsup.gif",
+    "static": null,
+    "width": "141",
+    "height": "141",
+    "weight": "550",
+    "tags": [
+      "thumbsup"
+    ]
   }
 ]
