@@ -106,5 +106,17 @@
       "baseball",
       "kids"
     ]
+  },
+  {
+    "name": "no",
+    "url": "http://gifapi.co/no.gif",
+    "static": null,
+    "width": "500",
+    "height": "309",
+    "weight": "147",
+    "tags": [
+      "no",
+      "shotgun"
+    ]
   }
 ]
