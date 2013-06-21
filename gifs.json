@@ -120,5 +120,19 @@
       "house",
       "sarcasm"
     ]
+  },
+  {
+    "name": "deploying",
+    "url": "http://gifapi.co/deploying.gif",
+    "static": null,
+    "width": "480",
+    "height": "253",
+    "weight": "1600",
+    "tags": [
+      "indianajones",
+      "deploy",
+      "gold",
+      "movie"
+    ]
   }
 ]
