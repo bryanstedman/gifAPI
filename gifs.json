@@ -165,6 +165,18 @@
       "jim",
       "yes"
     ]
+  },
+  {
+    "name": "waiting",
+    "url": "http://gifapi.co/waiting.gif",
+    "static": null,
+    "width": "500",
+    "height": "235",
+    "weight": "111",
+    "tags": [
+      "waiting",
+      "wide",
+      "coffee"
+    ]
   }
-
 ]
