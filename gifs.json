@@ -134,5 +134,20 @@
       "gold",
       "movie"
     ]
+  },
+  {
+    "name": "spring-board-jump",
+    "url": "http://gifapi.co/spring-board-jump.gif",
+    "static": null,
+    "width": "300",
+    "height": "195",
+    "weight": "5100",
+    "tags": [
+      "gymnastics",
+      "funny",
+      "jump",
+      "fall",
+      "fly"
+    ]
   }
 ]
